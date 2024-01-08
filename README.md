@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eleonora-m
 - 👀 I’m interested in Data Since 
-- 📚 I’m currently learning python 
+- 📚 I’m currently learning python and JavaScript
 - 📫 Lmg304@gmail.com
 - 👩🏿‍💻I'm beginner 
 <!---
